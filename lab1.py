@@ -1,3 +1,8 @@
+"""
+python lab1.py 
+一编：git实战测试手工修改文件
+"""
+
 import re
 import random
 import sys
