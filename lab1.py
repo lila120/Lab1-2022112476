@@ -1,6 +1,8 @@
 """
 python lab1.py 
 一编：git实战测试手工修改文件
+
+- 分支管理R7所做修改
 """
 
 import re
