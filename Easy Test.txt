@@ -1,8 +1,5 @@
 The scientist carefully analyzed the data, wrote a detailed report, and shared the report with the team, but the team requested more data, so the scientist analyzed it again.
 
-<<<<<<< HEAD
 --- 分支管理R7所做修改
-=======
 --- R5所做修改
 --- 分支管理R4所做修改
->>>>>>> B1
