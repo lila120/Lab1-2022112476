@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * Main类的JUnit测试类
  * 包含calcShortestPath方法和其他功能的测试用例
  */
-class MainTest {
+class calcShortestPathTest {
 
     @BeforeEach
     @DisplayName("初始化测试环境")
